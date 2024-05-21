@@ -102,8 +102,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 For any inquiries or feedback, feel free to reach out:
 
 - **Name:** Surabhi Agnihotri
-- **Email:** [gmail](surabhi.2125cs1188@kiet.edu)
+- **Email:** [Gmail](surabhi.2125cs1188@kiet.edu)
 - **GitHub:** [surabhiagnihotri](https://github.com/surabhiagnihotri)
 ```
 
-Replace the placeholders (`YOUR_IMAGE_URL`, `YOUR_PROJECT_LINK`, `YOUR_GITHUB_USERNAME`, `your.email@example.com`) with your actual information. This README provides a clear and structured overview of your project, making it easy for others to understand and contribute.
+Your suggestions are always welcome!
