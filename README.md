@@ -1,7 +1,7 @@
 
 # Finius: Financial Learning Website
 
-![Finius: Financial Learning Website](finius.png)
+![Finius: Financial Learning Website](finius1.png)
 
 ## Overview
 
